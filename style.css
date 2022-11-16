@@ -16,6 +16,8 @@ body {
 h1 {
     color: #FFF;
     margin-bottom: 20px;
+    text-align: center;
+    width: 310px;
 }
 .keys {
     display: grid;
